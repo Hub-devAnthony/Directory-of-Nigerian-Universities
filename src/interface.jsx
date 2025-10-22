@@ -46,7 +46,7 @@ function Interface () {
       <p className="text-xl font-semibold text-black">Year of Establishment: <span className="text-lg font-medium text-black">2025</span></p>
       <p className="text-center text-xl font-semibold text-black">Official Website: <a href='universityofibadan' className="text-lg font-medium text-blue-600 underline">universityofibadan</a></p>
 
-      <div className="flex space-x-32">
+      <div className="flex space-x-8">
         <button className="h-10 w-24 bg-purple-600 hover:bg-purple-700 text-white text-sm font-medium rounded-lg shadow-sm transition duration-300 ease-out">Previous</button>
         <button className="h-10 w-24 bg-green-600 hover:bg-green-700 text-white text-sm font-medium rounded-lg shadow-sm transition duration-300 ease-out">Next</button>
       </div>
