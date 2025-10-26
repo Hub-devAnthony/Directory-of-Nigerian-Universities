@@ -1,9 +1,7 @@
-import Interface from './interface.jsx'
+import Interface from "./components/Interface.jsx";
 
-function App () {
-  return (
-    <Interface />
-  );
+function App() {
+  return <Interface />;
 }
 
 export default App;
